@@ -1,0 +1,1 @@
+Se creó la estructura de un programa que cuenta con una clase "Perro", la cual tiene ciertos atributos y métodos asociados a ella.
